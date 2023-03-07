@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Richard-Harris1992/rhar763Website.git/static/css/main.494a8874.css",
+    "main.js": "/Richard-Harris1992/rhar763Website.git/static/js/main.cc265a55.js",
+    "static/media/SanAntonio.jpg": "/Richard-Harris1992/rhar763Website.git/static/media/SanAntonio.c8b8cb3cd00981731bc0.jpg",
+    "static/media/Austin.jpg": "/Richard-Harris1992/rhar763Website.git/static/media/Austin.2d8710c4ff39cf529aca.jpg",
+    "static/media/Houston.jpg": "/Richard-Harris1992/rhar763Website.git/static/media/Houston.f654572af3cf7f527d56.jpg",
+    "static/media/Dallas.jpg": "/Richard-Harris1992/rhar763Website.git/static/media/Dallas.7f4327d311bf92f4230d.jpg",
+    "static/media/Tx-Seal.jpg": "/Richard-Harris1992/rhar763Website.git/static/media/Tx-Seal.3ab6d397995345edb614.jpg",
+    "index.html": "/Richard-Harris1992/rhar763Website.git/index.html",
+    "main.494a8874.css.map": "/Richard-Harris1992/rhar763Website.git/static/css/main.494a8874.css.map",
+    "main.cc265a55.js.map": "/Richard-Harris1992/rhar763Website.git/static/js/main.cc265a55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.494a8874.css",
+    "static/js/main.cc265a55.js"
+  ]
+}
