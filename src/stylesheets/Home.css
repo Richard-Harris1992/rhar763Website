@@ -1,0 +1,87 @@
+
+:root {
+    --texas-red: #bf0a30;
+    --texas-blue: #002868;
+    --texas-white: #ffffff;
+  }
+  
+
+  main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: var(--texas-white);
+    padding: 2rem;
+  }
+  
+ 
+  .ql {
+    width: 10vw;
+    background-color: var(--texas-red);
+    padding: 1rem;
+  }
+  
+  .ql h3 {
+    color: var(--texas-white);
+  }
+  
+  .ql li a {
+    color: var(--texas-white);
+  }
+  
+  section {
+    width: 60vw;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 0.5rem;
+    border-bottom: 1px solid var(--texas-red);
+  }
+  
+  th {
+    background-color: var(--texas-red);
+    color: var(--texas-white);
+  }
+  
+  tr:nth-child(even) {
+    background-color: var(--texas-white);
+  }
+  
+  tr:nth-child(odd) {
+    background-color: var(--texas-white);
+  }
+  
+  /* Quick facts aside */
+  .qf {
+    width: 20vw;
+    background-color: var(--texas-blue);
+    color: var(--texas-white);
+    padding: 1rem;
+  }
+  
+  .qf h3 {
+    color: var(--texas-white);
+  }
+  
+  .qf li {
+    margin: 1rem 0;
+  }
+
+  #txSeal {
+    position: absolute;
+    bottom: 0;
+    left: 86%;
+    transform: 
+      translateX(-40%)
+      translateY(-40%);
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+  }
+ 

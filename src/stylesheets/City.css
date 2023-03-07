@@ -1,0 +1,35 @@
+.cityMain {
+    display: flex;
+    flex-direction: row-reverse;
+    height: 80vh;
+}
+
+.citySection {
+    width: 80vw;
+}
+
+.cityAside {
+    width: 10vw;
+    background-color: var(--texas-blue);
+    color: var(--texas-white);
+}
+
+.cityQL > li {
+    line-height: 1.5rem;
+}
+
+.cityImg {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 50px;
+    margin-left: 42%
+}
+
+.cityName {
+    margin: 30px
+}
+
+.asideContent > h3 {
+    margin: 1.5rem;
+}
