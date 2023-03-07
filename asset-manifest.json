@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Texas-Info/static/css/main.494a8874.css",
-    "main.js": "/Texas-Info/static/js/main.41be229f.js",
+    "main.js": "/Texas-Info/static/js/main.37d10fe9.js",
     "static/media/SanAntonio.jpg": "/Texas-Info/static/media/SanAntonio.c8b8cb3cd00981731bc0.jpg",
     "static/media/Austin.jpg": "/Texas-Info/static/media/Austin.2d8710c4ff39cf529aca.jpg",
     "static/media/Houston.jpg": "/Texas-Info/static/media/Houston.f654572af3cf7f527d56.jpg",
@@ -9,10 +9,10 @@
     "static/media/Tx-Seal.jpg": "/Texas-Info/static/media/Tx-Seal.3ab6d397995345edb614.jpg",
     "index.html": "/Texas-Info/index.html",
     "main.494a8874.css.map": "/Texas-Info/static/css/main.494a8874.css.map",
-    "main.41be229f.js.map": "/Texas-Info/static/js/main.41be229f.js.map"
+    "main.37d10fe9.js.map": "/Texas-Info/static/js/main.37d10fe9.js.map"
   },
   "entrypoints": [
     "static/css/main.494a8874.css",
-    "static/js/main.41be229f.js"
+    "static/js/main.37d10fe9.js"
   ]
 }
