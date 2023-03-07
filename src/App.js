@@ -20,7 +20,7 @@ function App() {
         </div>
       </header>
       <Routes>
-        <Route path="/Texas-Info" element={<Home />} />
+        <Route path="/rhar763Website" element={<Home />} />
         <Route path="/cities" element={<Cities />} />
         <Route path="/cities/:city" element={<City />} />
         <Route path="/sources" element={<Sources />} />
