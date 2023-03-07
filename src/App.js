@@ -13,7 +13,7 @@ function App() {
       <header className="header">
         <h1 className='title'>All About Texas</h1>
         <div className="bg-head">
-          <Link to="/">Home</Link>
+          <Link to="/rhar763Website">Home</Link>
           <Link to="/cities">Cities</Link>
           <Link to="/sources">Sources</Link>
           <Link to="/contact">Contact Us</Link>
